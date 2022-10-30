@@ -1,0 +1,467 @@
+# depslib dependency file v1.0
+1663851411 source:d:\tmp\code\jackcompile\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663851662 source:d:\tmp\code\jackcompile\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1663850193 d:\tmp\code\jackcompile\jackcompile\jackheader.h
+
+1663919600 source:f:\其他\jackcompile\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1663913522 f:\其他\jackcompile\jackcompile\jackheader.h
+
+1663920158 source:f:\其他\jackcompile\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664284850 source:d:\tmp\code\jackcompile1\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664266839 d:\tmp\code\jackcompile1\jackcompile\jackheader.h
+
+1664284468 source:d:\tmp\code\jackcompile1\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664290441 source:d:\tmp\code\jackcompile1\jackcompile\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664284468 source:f:\其他\jackcompile\jackcompile\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664266839 f:\其他\jackcompile\jackcompile\jackcompile\jackheader.h
+
+1664343833 source:f:\其他\jackcompile\jackcompile\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664353804 source:f:\其他\jackcompile\jackcompile\jackcompile\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664284468 source:d:\tmp\code\jackcompile1\jackcompile(1)\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664266839 d:\tmp\code\jackcompile1\jackcompile(1)\jackcompile\jackheader.h
+
+1664353990 source:d:\tmp\code\jackcompile1\jackcompile(1)\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664375935 source:d:\tmp\code\jackcompile1\jackcompile(1)\jackcompile\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664284468 source:f:\其他\jackcompile\jackcompile(1)\jackcompile\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664266839 f:\其他\jackcompile\jackcompile(1)\jackcompile\jackheader.h
+
+1664422805 source:f:\其他\jackcompile\jackcompile(1)\jackcompile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664420575 source:f:\其他\jackcompile\jackcompile(1)\jackcompile\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664420575 source:f:\其他\jackcompile\jackcompile(1)\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664266839 f:\其他\jackcompile\jackcompile(1)\jackcompile - fianl\jackheader.h
+
+1664431338 source:f:\其他\jackcompile\jackcompile(1)\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664431338 source:f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664978618 f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\jackheader.h
+
+1664932749 source:f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1664955128 source:f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664959572 source:f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664960853 source:f:\nand2tetris\jackcompile - fianl\jackcompile - fianl\codewriter.c
+
+1665473897 source:d:\tmp\code\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665822068 source:d:\tmp\code\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665476152 d:\tmp\code\jackcompile - fianl\jackheader.h
+
+1665475966 source:d:\tmp\code\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665820481 source:d:\tmp\code\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665473897 source:d:\tmp\code\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665217237 source:f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665216818 f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\jackheader.h
+
+1664431338 source:f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664932749 source:f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665217199 source:f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665195696 source:f:\其他\jackcompile\jackcompile - fianl\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1664932749 source:d:\tmp\code\jackcompile - fianl\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665235097 d:\tmp\code\jackcompile - fianl\jackcompile - fianl\jackheader.h
+
+1665195696 source:d:\tmp\code\jackcompile - fianl\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665237620 source:d:\tmp\code\jackcompile - fianl\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665237127 source:d:\tmp\code\jackcompile - fianl\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665233347 source:d:\tmp\code\jackcompile - fianl\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665390734 source:f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665282155 f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\jackheader.h
+
+1665391082 source:f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665233347 source:f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665299720 source:f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665195696 source:f:\其他\jackcompile\jackcompile - final\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665408546 source:d:\tmp\code\jackcompile - final1010\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665401018 d:\tmp\code\jackcompile - final1010\jackcompile - fianl\jackheader.h
+
+1665409054 source:d:\tmp\code\jackcompile - final1010\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665233347 source:d:\tmp\code\jackcompile - final1010\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665299720 source:d:\tmp\code\jackcompile - final1010\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665391429 source:d:\tmp\code\jackcompile - final1010\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665473897 source:f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\codewriter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665476152 f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\jackheader.h
+
+1665473914 source:f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\jacktokenizer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665475966 source:f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	"jackheader.h"
+
+1665473897 source:f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\symboltable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
+1665473897 source:f:\其他\jackcompile\jackcompile - final1011\jackcompile - fianl\compilationengine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jackheader.h"
+
